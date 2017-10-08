@@ -5,3 +5,5 @@ text
 a 
 tady
 pridam text
+
+konecne ta kurva funguje
